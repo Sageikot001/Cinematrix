@@ -5,7 +5,7 @@ import MovieCard from "./MovieCard";
 import "./App.css";
 import SearchIcon from "./search.svg";
 
-const API_URL = "http://www.omdbapi.com?apiKey=e23cbbe0";
+const API_URL = "https://www.omdbapi.com?apiKey=e23cbbe0";
 
 const movie1 = {
   Title: "Spiderman and Grandma",
