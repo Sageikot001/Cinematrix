@@ -85,7 +85,12 @@ h1 {
   width: 100px;
   height: 100px;
   border-radius: 50px;
-  border: 10px  solid, #f9d3b4,
+  border: 10px  solid, linear-gradient(
+    90deg,
+    rgba(249, 211, 180, 1) 0%,
+    rgba(249, 211, 180, 0) 100%
+  )
+  /* #f9d3b4, */
   ;
   
 }
